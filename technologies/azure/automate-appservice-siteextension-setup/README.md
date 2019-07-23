@@ -14,7 +14,7 @@ The powershell script is a blueprint to automate the [Setup to monitor Azure App
 
 ### Prerequisites 
 * Powershell 3.0 or higher
-* [Azure CLI](https://docs.microsoft.com/en-us/cli/azure/?view=azure-cli-latest)
+* [Azure CLI 2.0 or higher](https://docs.microsoft.com/en-us/cli/azure/?view=azure-cli-latest)  
 
 Before executing the script, make sure you are signed-in with Azure CLI. For more details see [Sign in with Azure CLI](https://docs.microsoft.com/en-us/cli/azure/authenticate-azure-cli?view=azure-cli-latest)
 
